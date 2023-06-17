@@ -8,8 +8,13 @@ body{
 }
 .navbar{
     opacity: 90%;
-    background-color: rgb(190, 203, 215);
+    background-color: rgb(68, 68, 68);
 }
 ul{
     font-style: none;
+}
+.footer{
+    bottom: 0px;
+    background-color: rgb(68, 68, 68);
+    opacity: 90%;
 }
